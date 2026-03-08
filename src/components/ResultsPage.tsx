@@ -93,7 +93,7 @@ function generateReport(cards: SelectedCard[], style: ReadingStyle, question: st
   report += `最後，旅人微笑著踏上了旅程。他知道，無論選擇了哪條路，只要保持覺察和勇氣，每一步都是通向光明的方向。\n\n`;
 
   report += `---\n\n`;
-  report += `*✦ 此報告由「福星何大師」塔羅復盤學習系統生成，僅供學習參考與內在覺察之用 ✦*\n`;
+  report += `*✦ 此報告由「福青施老師」塔羅復盤學習系統生成，僅供學習參考與內在覺察之用 ✦*\n`;
 
   return report;
 }
