@@ -86,7 +86,7 @@ const OpeningAnimation = ({ onComplete }: { onComplete: () => void }) => {
             命運的指引
           </h1>
           <p className="mt-3 text-sm md:text-base text-muted-foreground tracking-widest">
-            福星何大師 ✦ 塔羅復盤學習
+            福青施老師 ✦ 塔羅復盤學習
           </p>
         </motion.div>
 

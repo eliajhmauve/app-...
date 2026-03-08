@@ -35,7 +35,7 @@ const HomePage = ({ onStartReading }: HomePageProps) => {
         >
           <div className="flex items-center justify-center gap-2 mb-4">
             <Sparkles className="w-5 h-5 text-accent" />
-            <span className="text-sm tracking-[0.3em] text-muted-foreground uppercase">福星何大師</span>
+            <span className="text-sm tracking-[0.3em] text-muted-foreground uppercase"><span className="text-sm tracking-[0.3em] text-muted-foreground uppercase">福青施老師</span></span>
             <Sparkles className="w-5 h-5 text-accent" />
           </div>
           <h1 className="text-4xl md:text-6xl font-display font-bold text-gradient-mystic mb-4 leading-tight">
